@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+
+ul, li{
+    padding: 0;
+}
+
+@media (max-width: 600px){
+    * {
+        width: 80%;
+    }
+    
+}
